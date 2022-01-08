@@ -1,4 +1,4 @@
-# PROJECT MANAGEMENT
+# PROJECT AUTOMATION
 
 This **Bash** script was made to automate the task of creating a new project and learn Bash at the same time.<br><br>
 
